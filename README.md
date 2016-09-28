@@ -2,7 +2,7 @@
 ### Created theme (first commit) 28.09.2016
 ## Plugins that need to be install:
 
-1) **ACF ** - [https://ru.wordpress.org/plugins/advanced-custom-fields/](https://ru.wordpress.org/plugins/advanced-custom-fields/ "https://ru.wordpress.org/plugins/advanced-custom-fields/")
+1) **ACF** - [https://ru.wordpress.org/plugins/advanced-custom-fields/](https://ru.wordpress.org/plugins/advanced-custom-fields/ "https://ru.wordpress.org/plugins/advanced-custom-fields/")
 
 2) **ACF options page** - [https://www.advancedcustomfields.com/add-ons/options-page/](https://www.advancedcustomfields.com/add-ons/options-page/ "https://www.advancedcustomfields.com/add-ons/options-page/")
 
