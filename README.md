@@ -1,4 +1,5 @@
-# **Theme: Papaya-Marketplace**  version 1.0.1
+# **Theme: Papaya-Marketplace**  
+### version 1.0.1
 ### Created theme (first commit) 28.09.2016
 ## Plugins that need to be install:
 
